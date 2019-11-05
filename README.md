@@ -7,10 +7,9 @@ In this lesson you'll review the modeling process for running regression or simi
 
 ## Objectives
 You will be able to:
-    
-* Identify the various steps involved  in building a model
-* Understand that modeling is an iterative process
+
 * Identify target variables and predictor variables
+* Identify the steps involved in building a machine learning model
 
 ## Fitting an Initial Model
 
@@ -672,7 +671,7 @@ model.summary()
 
 ## Checking for Normality
 
-Again recall that we should check to ensure that our residuals are normally distributed. As you've seen before, a Q-Q plot is a helpful visual for analyzing this.
+Again, recall that we should check to ensure that our residuals are normally distributed. As you've seen before, a Q-Q plot is a helpful visual for analyzing this.
 
 
 ```python
